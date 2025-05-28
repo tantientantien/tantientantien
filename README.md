@@ -6,7 +6,7 @@ I'm passionate about software development and fascinated by the world of Artific
 - 👀 I’m interested in Software Development, AI/ML (especially NLP)
 - 🌱 I’m currently learning system design, scalable backend architecture, and deep learning
 - 💞️ I’m looking to collaborate on open-source projects that solve real-world problems
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/your-profile) or email me at your.email@example.com
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/your-profile) or email me at chaotien2003@gmail.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I love building things that are useful before they look beautiful
 
