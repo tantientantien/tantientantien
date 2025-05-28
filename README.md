@@ -19,7 +19,7 @@ Welcome to my GitHub profile! I'm a software developer passionate about building
 - Backend-heavy systems with real-world impact
 
 ## 📫 How to Reach Me
-- Email: `tantientantien@gmail.com`
+- Email: `chaotien2003@gmail.com`
 - LinkedIn: [linkedin.com/in/tantientantien](https://linkedin.com/in/tantientantien)
 - GitHub: [@tantientantien](https://github.com/tantientantien)
 
