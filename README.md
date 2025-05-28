@@ -1,18 +1,34 @@
-# 👋 Hi there, I'm @tantientantien
+# 👋 Hi there, I'm Tien (@tantientantien)!
 
-I'm passionate about software development and fascinated by the world of Artificial Intelligence and Machine Learning — especially Natural Language Processing.  
-I believe that **a great engineer isn’t defined by how many lines of code they write, but by the mindset that guides their hand.**
+Welcome to my GitHub profile! I'm a software developer passionate about building meaningful systems and exploring the power of Artificial Intelligence — especially in the realm of Natural Language Processing (NLP). I believe that **a great engineer isn’t defined by how many lines of code they write, but by the mindset that guides their hand.**
 
-## 💡 About Me
-- 👀 I’m interested in Software Development, AI/ML (especially NLP)
-- 🌱 I’m currently learning system design, scalable backend architecture, and deep learning
-- 💞️ I’m looking to collaborate on open-source projects that solve real-world problems
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/your-profile) or email me at chaotien2003@gmail.com
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: I love building things that are useful before they look beautiful
+## 👀 Interests
+- Backend Development (currently focusing on .NET and clean architecture)
+- Natural Language Processing (NLP)
+- Building educational and collaborative platforms
+- Developer tooling and productivity
 
-> _"A great engineer isn’t defined by how many lines of code they write, but by the mindset that guides their hand."_
+## 🌱 Currently Learning
+- Advanced concepts in Machine Learning and NLP
+- Designing scalable backend systems
+- Building better developer experiences with tools like AutoMapper, MediatR, MassTransit, and more
+
+## 💞️ Open to Collaborate On
+- Open-source tools or platforms that support learning and growth
+- Projects related to AI/NLP
+- Backend-heavy systems with real-world impact
+
+## 📫 How to Reach Me
+- Email: `chaotien2003@gmail.com`
+- LinkedIn: [linkedin.com/in/tantientantien](https://linkedin.com/in/tantientantien)
+- GitHub: [@tantientantien](https://github.com/tantientantien)
+
+## 😄 Pronouns
+He/Him
+
+## ⚡ Fun Fact
+I enjoy building small systems just to learn how things work under the hood — from caching strategies to authorization logic. Sometimes, I try to explain my code to AI to see if it makes sense 😄
 
 ---
 
-Thanks for stopping by!
+Thanks for stopping by! Feel free to explore my repositories or connect with me for collaboration.
