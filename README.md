@@ -1,6 +1,7 @@
 # 👋 Hi there, I'm @tantientantien
 
-I'm passionate about software development and fascinated by the world of Artificial Intelligence and Machine Learning — especially Natural Language Processing.
+I'm passionate about software development and fascinated by the world of Artificial Intelligence and Machine Learning — especially Natural Language Processing.  
+I believe that **a great engineer isn’t defined by how many lines of code they write, but by the mindset that guides their hand.**
 
 ## 💡 About Me
 - 👀 I’m interested in Software Development, AI/ML (especially NLP)
