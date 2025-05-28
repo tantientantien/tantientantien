@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Tien (@tantientantien)!
 
-Welcome to my GitHub profile! I'm a software developer passionate about building meaningful systems and exploring the power of Artificial Intelligence — especially in the realm of Natural Language Processing (NLP). I believe that **a great engineer isn’t defined by how many lines of code they write, but by the mindset that guides their hand.**
+Welcome to my GitHub profile! I'm a software engineer passionate about building meaningful systems and exploring the power of Artificial Intelligence — especially in the realm of Natural Language Processing (NLP). I believe that **a great engineer isn’t defined by how many lines of code they write, but by the mindset that guides their hand.**
 
 ## 👀 Interests
 - Backend Development (currently focusing on .NET and clean architecture)
